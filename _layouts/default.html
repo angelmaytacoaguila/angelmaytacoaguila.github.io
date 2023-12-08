@@ -11,6 +11,14 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+
+    <style>
+      .view {
+        display: inline-block; /* Muestra los contenedores en línea uno al lado del otro */
+        margin-right: 10px; /* Espaciado entre los contenedores (ajusta según sea necesario) */
+      }
+    </style>
+
   </head>
   <body>
     <div class="wrapper">
@@ -30,18 +38,19 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view">
-          <a href="https://www.linkedin.com/in/angelgmc/" target="_blank" >LinkedIn
-            <img src=/assets/img/linkedin.png alt="LinkedIn Symbol" style="width: 40px; height: 40px; vertical-align: middle;">
+        <div class="view">
+          <a href="https://www.linkedin.com/in/angelgmc/" target="_blank" >
+            <img src="/assets/img/linkedin.png" alt="LinkedIn Symbol" style="width: 40px; height: 40px; vertical-align: middle;">
+            LinkedIn
           </a>
-        </p>
+        </div>
 
-        <p class="view">
-            <a href="https://www.kaggle.com/angelmc" target="_blank">Kaggle
-                <img src="/assets/img/kaggle.png" alt="Kaggle Symbol" style="width: 40px; height: 40px; vertical-align: middle;">
-            </a>
-        </p>
-
+        <div class="view">
+          <a href="https://www.kaggle.com/angelmc" target="_blank">
+            <img src="/assets/img/kaggle.png" alt="Kaggle Symbol" style="width: 40px; height: 40px; vertical-align: middle;">
+            Kaggle
+          </a>
+        </div>
         {% endif %}
 
         {% if site.show_downloads %}
