@@ -3,12 +3,18 @@ layout: default
 ---
 
 # My data science projects
+## Selected projects in data science and machine learning
+### Perceptron algorithm
+
+El algoritmo perceptrón, es un algoritmo de clasificación lineal. En un pequeño ejemplo en 2D busca encontrar una recta que separe correctamente los dos grupos de puntos que se observan en la figura. En caso de que el grupo de puntos no sea separable, continuará iterando sin encontrar una solución óptima.
+
+[Código en Google Colab](https://colab.research.google.com/drive/1db0g8Y2XvWitXeqFxnyLX9lh8v-QkEwV?usp=sharing).
+
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
