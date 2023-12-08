@@ -13,9 +13,12 @@
     {% include head-custom.html %}
 
     <style>
-      header {
-        overflow-y: auto; /* Agrega una barra de desplazamiento si el contenido del header excede la altura máxima */
-      }
+    header {
+      /* Asegura que el encabezado ocupe al menos el 100% de la altura visible */
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
     </style>
 
   </head>
