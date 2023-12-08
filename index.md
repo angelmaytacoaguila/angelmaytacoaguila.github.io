@@ -12,7 +12,7 @@ El algoritmo perceptrón, es un algoritmo de clasificación lineal. En un peque�
 
 [Código en Google Colab](https://colab.research.google.com/drive/1db0g8Y2XvWitXeqFxnyLX9lh8v-QkEwV?usp=sharing){:target="_blank"}.
 
-<img src="assets/img/perceptron.jpg?raw=true" />
+<img src="assets/img/perceptron.jpg?raw=true" style="width: 80%;" />
 
 ### Redes Neuronales
 
