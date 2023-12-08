@@ -11,26 +11,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
-
-    <style>
-    header {
-      /* Asegura que el encabezado ocupe al menos el 100% de la altura visible */
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-    }
-    .header-content {
-      flex: 1; /* Permite que el contenido del encabezado ocupe todo el espacio disponible */
-      overflow-y: auto; /* Agrega una barra de desplazamiento si el contenido excede la altura visible */
-    }
-
-    </style>
-
   </head>
   <body>
     <div class="wrapper">
       <header>
-        <div class="header-content">
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
@@ -67,7 +51,6 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-        </div>
       </header>
       <section>
 
