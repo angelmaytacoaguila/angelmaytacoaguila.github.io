@@ -14,9 +14,15 @@ El algoritmo perceptrón, es un algoritmo de clasificación lineal. En un peque�
 
 <img src="assets/img/perceptron.jpg?raw=true" style="width: 80%;" />
 
-### Redes Neuronales
+### Análisis de cobertura movil en Perú
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+En este primer análisis se muestra un mapa de calor por la cantidad de empresas operadoras de cobertura móvil.
+
+[Código en Google Colab](https://colab.research.google.com/drive/1tmRPsOLBL674-xKL_0xu6Edn9d_i1UpB?usp=sharing){:target="_blank"}.
+
+<img src="assets/img/CANTIDAD_OPERADORAS.jpg?raw=true" style="width: 80%;" />
+
+### Redes neuronales
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
