@@ -22,9 +22,10 @@ En este primer análisis se muestra un mapa de calor por la cantidad de empresas
 
 <img src="assets/img/CANTIDAD_OPERADORAS2.jpg?raw=true" style="width: 80%;" />
 
-### Redes neuronales
+### EM Algorithm (Proximamente)
+### Redes neuronales (Proximamente)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
 There should be whitespace between paragraphs.
@@ -138,4 +139,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
