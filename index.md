@@ -16,7 +16,7 @@ El algoritmo perceptrón, es un algoritmo de clasificación lineal. En un peque�
 
 ### Análisis de cobertura móvil en Perú
 
-En este primer análisis se muestra un mapa de calor por la cantidad de empresas operadoras de cobertura móvil.
+Mapa de calor por la cantidad de empresas operadoras de cobertura móvil por distrito.
 
 [Código en Google Colab](https://colab.research.google.com/drive/1tmRPsOLBL674-xKL_0xu6Edn9d_i1UpB?usp=sharing){:target="_blank"}.
 
