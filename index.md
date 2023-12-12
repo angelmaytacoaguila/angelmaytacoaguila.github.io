@@ -22,7 +22,7 @@ Mapa de calor de la cantidad de empresas operadoras de cobertura móvil por dist
 
 <img src="assets/img/CANTIDAD_OPERADORAS2.jpg?raw=true" style="width: 80%;" />
 
-Mapa de calor del tipo de tecnología de servicio móvil por distrito.
+Mapa de calor de la mayor tecnología de servicio móvil disponible por distrito.
 
 <img src="assets/img/TECNOLOGIA_MOVIL.jpg?raw=true" style="width: 80%;" />
 
