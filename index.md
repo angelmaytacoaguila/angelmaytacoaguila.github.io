@@ -4,7 +4,7 @@ layout: default
 
 # My data science projects
 <!-- ## Selected projects in data science and machine learning -->
-### Perceptron algorithm
+### Algoritmo perceptrón
 
 El algoritmo perceptrón, es un algoritmo de clasificación lineal. En un pequeño ejemplo en 2D busca encontrar una recta que separe correctamente los dos grupos de puntos que se observan en la figura. En caso de que el grupo de puntos no sea separable, continuará iterando sin encontrar una solución óptima.
 
