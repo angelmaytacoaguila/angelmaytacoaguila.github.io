@@ -26,6 +26,8 @@ Mapa de calor de la mayor tecnología de servicio móvil disponible por distrito
 
 <img src="assets/img/TECNOLOGIA_MOVIL.jpg?raw=true" style="width: 80%;" />
 
+<iframe src="/assets/img/mapa_outliers.html" width="100%" height="600px"></iframe>
+
 ### EM Algorithm (Proximamente)
 ### Redes neuronales (Proximamente)
 
