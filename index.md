@@ -26,7 +26,7 @@ Mapa de calor de la mayor tecnología de servicio móvil disponible por distrito
 
 <img src="assets/img/TECNOLOGIA_MOVIL.jpg?raw=true" style="width: 80%;" />
 
-Mapa de OSM(OpenStreetMap) la cantidad de estaciones por tipo de tecnología por cada centro poblado. Los centros poblados están representados por marcadores azules a lo largo de Perú.
+Mapa de OSM (OpenStreetMap) la cantidad de estaciones por tipo de tecnología por cada centro poblado. Los centros poblados están representados por marcadores azules a lo largo de Perú.
 
 <iframe src="/assets/img/mapa_ccpp.html" width="100%" height="580px"></iframe>
 
