@@ -30,7 +30,7 @@ Mapa de OSM (OpenStreetMap) de la cantidad de estaciones por tipo de tecnología
 
 <iframe src="/assets/img/mapa_ccpp.html" width="400px" height="500px"></iframe>
 
-#
+###
 ### NLP - Sentiment Analysis for Disneyland reviews (Proximamente)
 
 Construí un modelo clasificador para identificar y diferenciar reviews positivas, negativas y neutrales publicadas por visitantes sobre su experiencia en Disneyland.
