@@ -35,6 +35,8 @@ Mapa de OSM (OpenStreetMap) de la cantidad de estaciones por tipo de tecnología
 
 Construí un modelo clasificador para identificar y diferenciar reviews positivas, negativas y neutrales publicadas por visitantes sobre su experiencia en Disneyland.
 
+[Código en Google Colab](https://colab.research.google.com/drive/1MgWRzYbDofO64_w3XKjfHTscaE6OL-Vg?usp=sharing){:target="_blank"}.
+
 <img src="assets/img/GENERAL_WORD_CLOUD.jpg" style="width: 100%;" />
 
 ### Redes neuronales (Proximamente)
