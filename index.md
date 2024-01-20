@@ -4,7 +4,7 @@ layout: default
 
 # My data science projects
 <!-- ## Selected projects in data science and machine learning -->
-### Algoritmo perceptrón
+## Algoritmo perceptrón
 
 El algoritmo perceptrón, es un algoritmo de clasificación lineal. En un pequeño ejemplo en 2D busca encontrar una recta que separe correctamente los dos grupos de puntos que se observan en la figura. En caso de que el grupo de puntos no sea separable, continuará iterando sin encontrar una solución óptima.
 
@@ -14,7 +14,7 @@ El algoritmo perceptrón, es un algoritmo de clasificación lineal. En un peque�
 
 <img src="assets/img/perceptron.jpg?raw=true" style="width: 80%;" />
 
-### Análisis de cobertura móvil en Perú
+## Análisis de cobertura móvil en Perú
 
 <!-- Mapa de calor de la cantidad de empresas operadoras de cobertura móvil por distrito. -->
 
@@ -30,7 +30,7 @@ Mapa de OSM (OpenStreetMap) de la cantidad de estaciones por tipo de tecnología
 
 <iframe src="/assets/img/mapa_ccpp.html" width="400px" height="500px"></iframe><br>
 
-### NLP - Sentiment Analysis for Disneyland reviews
+## NLP - Sentiment Analysis for Disneyland reviews
 
 Realicé una exploración de reviews hechas por visitantes a Disneyland. Identifiqué las palabras que caracterizan las reseñas, tanto positivas como negativas. En las imágenes a continuación se muestran WordClouds de palabras que caracterizan mejor a cada tipo de reseña (positiva o negativa).
 
@@ -48,7 +48,7 @@ Adicionalmente construí un modelo predictivo para diferenciar reviews positivas
 
 
 
-### Redes neuronales (Proximamente)
+## Redes neuronales (Proximamente)
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
