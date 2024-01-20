@@ -32,11 +32,20 @@ Mapa de OSM (OpenStreetMap) de la cantidad de estaciones por tipo de tecnología
 
 ### NLP - Sentiment Analysis for Disneyland reviews
 
-Construí un modelo clasificador para identificar y diferenciar reviews positivas, negativas y neutrales publicadas por visitantes sobre su experiencia en Disneyland.
+Realicé una exploración de reviews hechas por visitantes a Disneyland. Identifiqué las palabras que caracterizan las reseñas, tanto positivas como negativas. En las imágenes a continuación se muestran WordClouds de palabras que caracterizan mejor a cada tipo de reseña (positiva o negativa).
+
+#### WordCloud de palabras que caracterizan a reviews positivas
+
+<img src="assets/img/PALABRAS_POSITIVAS.jpg" style="width: 100%;" />
+
+#### WordCloud de palabras que caracterizan a reviews negativas
+
+<img src="assets/img/PALABRAS_NEGATIVAS.jpg" style="width: 100%;" />
+
 
 [Código en Google Colab](https://colab.research.google.com/drive/1MgWRzYbDofO64_w3XKjfHTscaE6OL-Vg?usp=sharing){:target="_blank"}.
 
-<img src="assets/img/GENERAL_WORD_CLOUD.jpg" style="width: 100%;" />
+
 
 ### Redes neuronales (Proximamente)
 
