@@ -42,6 +42,7 @@ Realicé una exploración de reviews hechas por visitantes a Disneyland. Identif
 
 <img src="assets/img/PALABRAS_NEGATIVAS.jpg" style="width: 100%;" />
 
+Adicionalmente construí un modelo predictivo para diferenciar reviews positivas de las negativas.
 
 [Código en Google Colab](https://colab.research.google.com/drive/1MgWRzYbDofO64_w3XKjfHTscaE6OL-Vg?usp=sharing){:target="_blank"}.
 
