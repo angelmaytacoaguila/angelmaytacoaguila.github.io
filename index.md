@@ -7,7 +7,7 @@ layout: default
 
 ## Detección de objetos con redes neuronales
 
-Realicé un ejemplo introductorio sobre detección de objetos con datos de MNIST utilizando un modelo de redes neutonales con una arquitectura simplificada.
+Desarrollé un ejemplo introductorio sobre detección de objetos con un modelo de redes neuronales entrenado desde cero con datos de MNIST.
 
 [Código en Google Colab](https://colab.research.google.com/drive/1lzvehmyEtJTRZKbViX-ra7QTjbalu7RS?usp=sharing){:target="_blank"}.
 
