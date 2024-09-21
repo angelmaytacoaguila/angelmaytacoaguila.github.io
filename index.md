@@ -4,6 +4,13 @@ layout: default
 
 # My data science projects
 <!-- ## Selected projects in data science and machine learning -->
+
+## Detección de objetos con redes neuronales
+
+Realicé un ejemplo introductorio sobre detección de objetos con datos de MNIST utilizando un modelo de redes neutonales con una arquitectura simplificada.
+
+[Código en Google Colab](https://colab.research.google.com/drive/1lzvehmyEtJTRZKbViX-ra7QTjbalu7RS?usp=sharing){:target="_blank"}.
+
 ## Algoritmo perceptrón
 
 El algoritmo perceptrón, es un algoritmo de clasificación lineal. En un pequeño ejemplo en 2D busca encontrar una recta que separe correctamente los dos grupos de puntos que se observan en la figura. En caso de que el grupo de puntos no sea separable, continuará iterando sin encontrar una solución óptima.
@@ -48,7 +55,7 @@ Adicionalmente construí un modelo predictivo para diferenciar reviews positivas
 
 
 
-## Redes neuronales (Proximamente)
+
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
