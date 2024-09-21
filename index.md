@@ -13,7 +13,7 @@ Realicé un ejemplo introductorio sobre detección de objetos con datos de MNIST
 
 [Explicación conceptual](https://1drv.ms/p/c/7d0ca7c3abbb85d6/EVYJKmVpyy1KlkF-paK2ziABndVfzm6uJTOr05uqcFFLVQ?e=OfAaa8){:target="_blank"}.
 
-<img src="assets/img/object_detection_results.png?raw=true" style="width: 80%;" />
+<img src="assets/img/object_detection_results.jpg" style="width: 100%;" />
 
 ## Algoritmo perceptrón
 
