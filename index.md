@@ -11,6 +11,10 @@ Realicé un ejemplo introductorio sobre detección de objetos con datos de MNIST
 
 [Código en Google Colab](https://colab.research.google.com/drive/1lzvehmyEtJTRZKbViX-ra7QTjbalu7RS?usp=sharing){:target="_blank"}.
 
+[Explicación conceptual](https://1drv.ms/p/c/7d0ca7c3abbb85d6/EVYJKmVpyy1KlkF-paK2ziABndVfzm6uJTOr05uqcFFLVQ?e=OfAaa8){:target="_blank"}.
+
+<img src="assets/img/object_detection_results.png?raw=true" style="width: 80%;" />
+
 ## Algoritmo perceptrón
 
 El algoritmo perceptrón, es un algoritmo de clasificación lineal. En un pequeño ejemplo en 2D busca encontrar una recta que separe correctamente los dos grupos de puntos que se observan en la figura. En caso de que el grupo de puntos no sea separable, continuará iterando sin encontrar una solución óptima.
