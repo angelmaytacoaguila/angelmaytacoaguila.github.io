@@ -15,7 +15,7 @@ Construí un modelo de clasificación y detección de objetos desde cero utiliza
 
 <img src="assets/img/object_detection_results.jpg" style="width: 100%;" />
 
-## Algoritmo perceptrón
+<!-- ## Algoritmo perceptrón
 
 El algoritmo perceptrón, es un algoritmo de clasificación lineal. En un pequeño ejemplo en 2D busca encontrar una recta que separe correctamente los dos grupos de puntos que se observan en la figura. En caso de que el grupo de puntos no sea separable, continuará iterando sin encontrar una solución óptima.
 
@@ -23,7 +23,7 @@ El algoritmo perceptrón, es un algoritmo de clasificación lineal. En un peque�
 
 [Código en Google Colab](https://colab.research.google.com/drive/1db0g8Y2XvWitXeqFxnyLX9lh8v-QkEwV?usp=sharing){:target="_blank"}.
 
-<img src="assets/img/perceptron.jpg?raw=true" style="width: 80%;" />
+<img src="assets/img/perceptron.jpg?raw=true" style="width: 80%;" /> -->
 
 ## Análisis de cobertura móvil en Perú
 
