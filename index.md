@@ -7,11 +7,11 @@ layout: default
 
 ## Detección de objetos con redes neuronales
 
-Desarrollé un ejemplo introductorio sobre detección de objetos con un modelo de redes neuronales entrenado desde cero con datos de MNIST.
+Construí un modelo de clasificación y detección de objetos desde cero utilizando tensorflow para construir un modelo de redes neuronales alimentado con datos de MNIST.
 
 [Código en Google Colab](https://colab.research.google.com/drive/1lzvehmyEtJTRZKbViX-ra7QTjbalu7RS?usp=sharing){:target="_blank"}.
 
-[Explicación conceptual](https://drive.google.com/file/d/1lbYDtn9zLHI2dshTMwbDgm0xF1BIQAb4/view?usp=sharing){:target="_blank"}.
+<!-- [Explicación conceptual](https://drive.google.com/file/d/1lbYDtn9zLHI2dshTMwbDgm0xF1BIQAb4/view?usp=sharing){:target="_blank"}. -->
 
 <img src="assets/img/object_detection_results.jpg" style="width: 100%;" />
 
