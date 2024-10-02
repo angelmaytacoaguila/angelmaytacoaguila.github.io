@@ -7,7 +7,7 @@ layout: default
 
 ## Detección de objetos con redes neuronales
 
-Construí un modelo de clasificación y detección de objetos desde cero utilizando tensorflow para construir un modelo de redes neuronales alimentado con datos de MNIST.
+Construí un modelo de clasificación y detección de objetos desde cero utilizando Pytorch para construir un modelo de redes neuronales alimentado con datos de MNIST.
 
 [Código en Google Colab](https://colab.research.google.com/drive/1lzvehmyEtJTRZKbViX-ra7QTjbalu7RS?usp=sharing){:target="_blank"}.
 
